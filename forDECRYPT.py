@@ -1,4 +1,3 @@
-import imp
 from cryptography.fernet import Fernet
 
 file = open('passcode.txt','r')
